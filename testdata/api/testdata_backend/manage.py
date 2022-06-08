@@ -14,7 +14,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 with open(BASE_DIR + 'code/config.json') as json_file:
     env = json.load(json_file)
 
-print(env['settings']['project'])
+print(env['routes']['pedidos'])
 app = Flask(__name__)
 
 
