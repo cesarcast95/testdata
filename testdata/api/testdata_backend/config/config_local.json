@@ -1,7 +1,0 @@
-{
- "routes": {
-    "pedidos": "/code/store/ejercicio1_b1.xlsx",
-    "clientes": "/code/store/ejercicio1_b2.txt"
-
-  }
-}
