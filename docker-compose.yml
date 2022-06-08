@@ -1,0 +1,43 @@
+version: "3.9"
+
+services:
+
+  backendtestdata:
+    container_name: ${PROJECT}_backendtestdata
+    hostname: ${PROJECT}_backendtestdata
+    build: ./testdata_backend
+    profiles:
+      - testdata_backend
+      - testdata_frontend
+    volumes:
+      - ./testdata_backend/testdata_backend:/code
+    ports:
+      - "5000:5000"
+    stdin_open: true
+    tty: true
+    networks:
+      - platform
+    
+  testdata:
+    container_name: ${PROJECT}_testdata
+    hostname: ${PROJECT}_testdata
+    build: ./testdata_frontend
+    profiles:
+      - testdata_frontend
+    depends_on:
+      - backendtestdata
+    volumes:
+      - ./testdata_frontend/testdata_frontend:/code
+    expose:
+      - "3000"
+    ports:
+      - "3000:3000"
+    stdin_open: true
+    tty: true
+    networks:
+      - platform
+    command: "npm start"
+
+networks:
+  platform:
+    name: platform
