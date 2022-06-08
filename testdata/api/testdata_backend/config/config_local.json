@@ -1,13 +1,4 @@
 {
-  "settings": {
-    "project": "grupowind",
-    "env": "local",
-    "debug": true,
-    "allowed_hosts": [
-      "*"
-    ],
-    "token": "IbFXnf3VYquseIBMvFIzzRnCxXorjsdW"
-  },
  "routes": {
     "pedidos": "/code/store/ejercicio1_b1.xlsx",
     "clientes": "/code/store/ejercicio1_b2.txt"
