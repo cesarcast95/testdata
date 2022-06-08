@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="222507ab-ea4b-4ad3-83f3-f89acb882ef3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/.idea/frontend_testdata.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/src/components/PedidosClientesComponent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/src/components/PedidosComponent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/src/components/SearchComponent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontend_testdata/src/index.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AHVG9wymXbxnigcYZZlV5L3u7l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/snap/webstorm/261/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="222507ab-ea4b-4ad3-83f3-f89acb882ef3" name="Changes" comment="" />
+      <created>1654666402041</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654666402041</updated>
+      <workItem from="1654666403519" duration="14262000" />
+      <workItem from="1654708087424" duration="3440000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
